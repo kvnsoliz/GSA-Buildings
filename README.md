@@ -8,4 +8,6 @@ CSV file I used for this project is [GSA-Buildings](GSA-Buildings.csv)
 [R Markdown](GSA-Assignment3.html) file where all statistical testing and plotting took place.
 
 ## Rpubs
-[Rpubs](https://rpubs.com/ksolizayala/1456909) link
+[Rpubs](https://rpubs.com/ksolizayala/1456909) link with GSA buildings data.
+## JSON
+[JSON](GSA-Buildings.json) version of the GSA buildings data
