@@ -12,7 +12,7 @@ CSV file I used for this project is [GSA-Buildings](GSA-Buildings.csv)
 ## JSON
 [JSON](GSA-Buildings.json) version of the GSA buildings data
 ## D3.js visualizations
-[D3 Shapes Page](d3_shapes/)
-[D3 GSA Buildings Page](d3_gsabuildings/)
+[D3 Shapes Page](d3_shapes/src/)
+[D3 GSA Buildings Page](d3_gsabuildings/src/)
 
 
