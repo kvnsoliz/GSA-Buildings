@@ -11,3 +11,8 @@ CSV file I used for this project is [GSA-Buildings](GSA-Buildings.csv)
 [Rpubs](https://rpubs.com/ksolizayala/1456909) link with GSA buildings data.
 ## JSON
 [JSON](GSA-Buildings.json) version of the GSA buildings data
+## D3.js visualizations
+[D3 Shapes Page](d3_shapes/index.html)
+[D3 GSA Buildings Page](d3_gsabuildings/index.html)
+
+
